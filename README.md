@@ -1,16 +1,25 @@
-# block
+# Dictionary App with Flutter, BLoC, and Cubit
 
-A new Flutter project.
+A simple dictionary application built using Flutter, BLoC, and Cubit. This app allows users to look up English words and provides their meanings and pronunciation.
+
+## Features
+
+- Search for English words.
+- Retrieve the word's meanings and pronunciation.
+- Clean and user-friendly interface.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Prerequisites**
+   - Make sure you have Flutter installed. If not, follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Clone the Repository**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/NorbertHartlep/Simple-flutter-dictionary-app-with-bloc.git
+
+   Libraries Used
+flutter_bloc - State management library for Flutter.
+Add any other relevant libraries or dependencies here.
