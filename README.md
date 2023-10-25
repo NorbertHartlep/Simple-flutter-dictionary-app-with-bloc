@@ -20,6 +20,6 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/NorbertHartlep/Simple-flutter-dictionary-app-with-bloc.git
 
-   Libraries Used
+3. **Libraries Used**
 flutter_bloc - State management library for Flutter.
 Add any other relevant libraries or dependencies here.
